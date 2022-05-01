@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/webtest/static/css/main.9577e952.css",
+    "main.js": "/webtest/static/js/main.8784413c.js",
+    "static/js/787.59f1730a.chunk.js": "/webtest/static/js/787.59f1730a.chunk.js",
+    "static/media/bg3.png": "/webtest/static/media/bg3.ffc566fe8bff131fc4f8.png",
+    "static/media/aboutbg.jpg": "/webtest/static/media/aboutbg.f4ead538a1b1ca332886.jpg",
+    "static/media/profile-pic.png": "/webtest/static/media/profile-pic.ab001196dacf6ba35938.png",
+    "static/media/lib.png": "/webtest/static/media/lib.11134a61dd1e5a96f8c7.png",
+    "static/media/scilabs.png": "/webtest/static/media/scilabs.1a065d7f7a6d1c311c51.png",
+    "static/media/playg.png": "/webtest/static/media/playg.b6a66d7c1f2dbf7871e5.png",
+    "static/media/img4.jpg": "/webtest/static/media/img4.ccd2c5010c24a49d5373.jpg",
+    "static/media/img1.jpg": "/webtest/static/media/img1.2cdbed2b825e075e22ba.jpg",
+    "static/media/img2.jpg": "/webtest/static/media/img2.e159e24694d8aa8d4327.jpg",
+    "static/media/img7.jpg": "/webtest/static/media/img7.da7631998cd04d4a1031.jpg",
+    "static/media/mathlab.png": "/webtest/static/media/mathlab.3f26ac450e4c1b2823fa.png",
+    "static/media/img6.jpg": "/webtest/static/media/img6.72e666cfd5969400727b.jpg",
+    "static/media/img8.jpg": "/webtest/static/media/img8.55ec5bb05c8fd14edbb9.jpg",
+    "static/media/img3.jpg": "/webtest/static/media/img3.029350e7b1b97e827a55.jpg",
+    "static/media/img5.jpg": "/webtest/static/media/img5.d2b32a0d418255af8431.jpg",
+    "static/media/studych.jpg": "/webtest/static/media/studych.cf8599c090647b4a897d.jpg",
+    "static/media/principle.png": "/webtest/static/media/principle.ee44dd9cf48a4d23e24d.png",
+    "static/media/SchoolLOGO.png": "/webtest/static/media/SchoolLOGO.c4fb41d7c3a45c9d006e.png",
+    "static/media/comlab.png": "/webtest/static/media/comlab.74180daebb457aa1a42a.png",
+    "static/media/bus.jfif": "/webtest/static/media/bus.8bbcac414cda7eeaea93.jfif",
+    "index.html": "/webtest/index.html",
+    "main.9577e952.css.map": "/webtest/static/css/main.9577e952.css.map",
+    "main.8784413c.js.map": "/webtest/static/js/main.8784413c.js.map",
+    "787.59f1730a.chunk.js.map": "/webtest/static/js/787.59f1730a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9577e952.css",
+    "static/js/main.8784413c.js"
+  ]
+}
